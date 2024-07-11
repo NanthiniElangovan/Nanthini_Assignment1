@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+    <base href="https://example.com/">
+    <title>Example using <span> and <base>;</title>
+    <style>
+        
+        .blue-text {
+            color: blue;
+        }
+        .bold-text {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Using <code><span></code> and <code><base></code> in HTML</h1>
+
+    <p>This is a simple example demonstrating the usage of <code><span></code> and <code><base></code>.</p>
+
+    <p>
+        Here is a <span class="blue-text">span element</span> that changes the color of its text.
+    </p>
+
+    <p>
+        This paragraph uses a <span class="bold-text">bold span</span> to emphasize part of its text.
+    </p>
+
+    <p>
+        You can also use the <span style="background-color: yellow;">background color</span> property with <code><span></code>.
+    </p>
+
+    <p>
+        The <code>"base"</code> element is used in the <code>"head"</code> section to specify the base URL for all relative URLs in the document. For example, if an image is referenced with <code>"img src="images/example-image.jpg"</code> and the <code><base></code> element is set to <code>https://example.com/</code>, the actual URL used will be <code>https://example.com/images/example-image.jpg</code>.
+    </p>
+
+    <p>
+        <img src="images/example-image.jpg" alt="Example Image">
+    </p>
+</body>
+</html>
