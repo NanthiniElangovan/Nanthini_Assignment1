@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"content="width=device-width, initial-scale=1.0">
+<title>My Resume</title>
+</head>
+<body>
+
+<section><h1>Nanthini<br>
+Master of Computer Application<br>
+Phone : 7010878188 <br>
+Email :nanthini@gmail.com</h1></section>
+
+<section><h1>Objective :</h1>
+<p>To obtain employment with a company to learn and implement new skills and knowledge.</p></section>
+
+<section><h1>Education :</h1>
+Jyoti Nivas College Autonomous,Bangalore<br>
+2023 – 2025<br>
+Master of Computer Application<br>
+Pursuing<br></section>
+
+<section>Sri Paramakalyani Collge<br>
+2020 – 2023<br>
+Bachelor of Computer Application<br>
+Percentage :83<br></section>
+
+<section>
+Sivanthi Matriculation Higher Secondary School Cheranmahadevi<br>
+2018 – 2020<br>
+State board<br>
+Percentage :80<br></section>
+
+<section>Government Higher Secondary School Veeravanallur,Tirunelveli<br>
+2017-2018<br>
+SSLC <br>
+Percentage :85</section>
+
+<section><h1>Skills : </h1>
+Java, Microsoft Word, Microsoft PowerPoint</section>
+
+<section><h1>Hobbies : </h1>
+ Reading Books, Listening music, Watching Movies </section>
+
+<section><h1>Projects:</h1>
+Movie Ticket Booking System Using PHP
+</section>
+
+<section><h1>Languages: </h1>
+English <br>
+Tamil <br>
+</section>
+
+<section><h1>Certification :</h1>
+
+Database Management System<br></section>
+
+<section><h1>Declaration :</h1>
+I hereby declare that above furnished information are true to the best of my knowledge.</section>
+</body>
+</html>
+
